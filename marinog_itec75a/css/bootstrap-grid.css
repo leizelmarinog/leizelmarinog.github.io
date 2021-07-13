@@ -329,8 +329,6 @@ html {
 }
 
 @media (min-width: 576px) {
-  .col-sm-1224 {flex:1;
-	background-color:yellow}
   .col-sm {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
